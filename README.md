@@ -25,7 +25,7 @@ If you have a Vim plugin manager installed (e.g., Vim-Plug, Vundle), install the
 
     Launch Vim, and the settings and plugins should be applied.
 
-Customizations
+# Customizations
 
 Here are some of the customizations and features included in my Vim settings:
 
@@ -37,4 +37,5 @@ Here are some of the customizations and features included in my Vim settings:
     - ALE plugin installed for linting and code analysis
     - PaperColor color scheme applied
 
-Feel free to explore the .vimrc file to see more details about the specific settings and plugins I've configured.
+# Plugins
+I use PaperColor , nerdTree, Plug.vim, ale
